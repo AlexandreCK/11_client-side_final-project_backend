@@ -1,14 +1,25 @@
 {
-  "tasks": [
+  "book": [
     {
       "id": 1,
-      "title": "Study json-server",
-      "completed": false
+      "title": "Dream Of A Ridiculous Man",
+      "author": "Fyodor Dostoevsky",
+      "year": 1877,
+      "status": "read"
     },
     {
-      "id": 2,
-      "title": "Complete the client-side project",
-      "completed": true
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "year": 2008,
+      "status": "pending",
+      "id": 2
+    },
+    {
+      "title": "Modern Man in Search of a Soul",
+      "author": "Carl Jung",
+      "year": 1933,
+      "status": "in progress",
+      "id": 3
     }
   ]
 }
