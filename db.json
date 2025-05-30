@@ -1,25 +1,39 @@
 {
   "book": [
     {
-      "id": 1,
-      "title": "Dream Of A Ridiculous Man",
+      "title": "Notes",
       "author": "Fyodor Dostoevsky",
-      "year": 1877,
-      "status": "read"
+      "year": "1864",
+      "status": "Pending",
+      "id": 1
+    },
+    {
+      "title": "Demian",
+      "author": "Hermann Hesse",
+      "year": "1919",
+      "status": "Pending",
+      "id": 2
+    },
+    {
+      "title": "Republic",
+      "author": "Plato",
+      "year": "0",
+      "status": "Pending",
+      "id": 3
     },
     {
       "title": "Clean Code",
       "author": "Robert C. Martin",
-      "year": 2008,
-      "status": "pending",
-      "id": 2
+      "year": "2008",
+      "status": "In Progress",
+      "id": 4
     },
     {
-      "title": "Modern Man in Search of a Soul",
+      "title": "Aion",
       "author": "Carl Jung",
-      "year": 1933,
-      "status": "in progress",
-      "id": 3
+      "year": "1951",
+      "status": "Read",
+      "id": 5
     }
   ]
 }
